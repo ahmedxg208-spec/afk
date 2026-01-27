@@ -32,11 +32,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 1,
+      "repeat-delay": 1000,
 
       "messages": [
-        "/register afkbot123",
-        "join our discord server",
+        "/login afkbot123",
+        "join our discord server (https://discord.gg/RZUapuphs) J",
         "diamonnd server is the best ever"
       ]
     },
