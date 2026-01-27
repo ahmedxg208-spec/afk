@@ -6,7 +6,7 @@
   },
 
   "server": {
-    "ip": "diamondv2.aternos.me", 
+    "ip": "candiru.aternos.host", 
     "port": 50772,   
     "version": "1.21.11"   
   },
