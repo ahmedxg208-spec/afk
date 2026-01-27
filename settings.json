@@ -6,7 +6,7 @@
   },
 
   "server": {
-    "ip": "diamondv2.aternos.me:50772", 
+    "ip": "diamondv2.aternos.me", 
     "port": 50772,   
     "version": "1.12.1"   
   },
