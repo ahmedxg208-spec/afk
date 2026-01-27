@@ -1,6 +1,6 @@
 {
   "bot-account": {
-    "username": "AFKBot", 
+    "username": "diamondBot", 
     "password": "",
     "type": "offline"
   },
@@ -20,8 +20,8 @@
 
   "utils": {
     "auto-auth": {
-      "enabled": true,
-      "password": "1234566"
+      "enabled": false,
+      "password": ""
     },
 
     "anti-afk": {
@@ -43,6 +43,6 @@
 
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-recconect-delay": 5000
+    "auto-recconect-delay": 0
   }
 }
