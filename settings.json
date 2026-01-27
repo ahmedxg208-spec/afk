@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "Tyrox_x.aternos.me", 
-    "port": 48211,   
+    "ip": "diamondv2.aternos.me:50772", 
+    "port": 50772,   
     "version": "1.12.1"   
   },
 
